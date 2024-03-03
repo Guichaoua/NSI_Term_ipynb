@@ -1,0 +1,19 @@
+<div class="page" title="Page 1">
+<div class="layoutArea">
+<div class="column">
+<p><span style="font-size: 12.000000pt; font-family: 'LiberationSans';">À l’aide du module </span><span style="font-size: 12.000000pt; font-family: 'LMMono9';">turtle</span><span style="font-size: 12.000000pt; font-family: 'LiberationSans';">, écrire un module </span><span style="font-size: 12.000000pt; font-family: 'LMMono9';">figures.py permettant de dessiner un rectangle, un triangle et un cercle comme sur la figure du notebook</span><span style="font-size: 12pt;"><span style="font-family: LiberationSans;"> :&nbsp;</span></span></p>
+</div>
+</div>
+<div class="layoutArea">
+<div class="column">
+<p><span style="font-size: 12.000000pt; font-family: 'LiberationSans';">Ne pas oublier de documenter les fonctions du module et de les tester !</span><span style="font-size: 12.000000pt; font-family: 'LiberationSans';"> </span></p>
+<p><span style="font-size: 12.000000pt; font-family: 'LiberationSans';">documentation turtle : https://docs.python.org/3/library/turtle.html</span></p>
+<p><span style="font-size: 12.000000pt; font-family: 'LiberationSans';">A la fin de votre travail :</span></p>
+<p><span style="font-size: 12.000000pt; font-family: 'LiberationSans';">* me l'envoyer</span></p>
+<p><span style="font-size: 12.000000pt; font-family: 'LiberationSans';">* télécharger le script sur votre ordinateur et le renommer figures.py</span></p>
+<p><span style="font-size: 12.000000pt; font-family: 'LiberationSans';">* revenir au notebook pour le tester.</span></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</div>
+</div>
+</div>
